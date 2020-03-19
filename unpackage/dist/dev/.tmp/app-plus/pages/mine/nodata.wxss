@@ -1,0 +1,14 @@
+.no_data_block.data-v-7923758a {
+  width: 750rpx;
+  text-align: center;
+  margin-top: 400rpx;
+}
+.no_data_block .no_data.data-v-7923758a {
+  width: 464rpx;
+  height: 298rpx;
+}
+.no_data_block > view.data-v-7923758a {
+  font-size: 31rpx;
+  color: #686868;
+}
+

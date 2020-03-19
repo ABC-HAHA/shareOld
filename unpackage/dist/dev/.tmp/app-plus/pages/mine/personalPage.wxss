@@ -1,0 +1,27 @@
+.personalPage .base_class.data-v-175b7a4e {
+  background: #ffffff;
+  padding: 20rpx 50rpx;
+  margin-top: 10rpx;
+  font-size: 40rpx;
+  color: #414141;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.personalPage .base_class .head_image.data-v-175b7a4e {
+  background-color: #00ffff;
+  width: 124rpx;
+  height: 124rpx;
+  border-radius: 50%;
+}
+.personalPage .base_class > text.data-v-175b7a4e {
+  font-size: 37rpx;
+  color: #818181;
+}
+

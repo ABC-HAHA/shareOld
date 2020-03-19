@@ -1,0 +1,23 @@
+.text_title.data-v-d61a2252 {
+  font-size: 33rpx;
+  font-family: PingFang SC;
+  font-weight: 500;
+  color: #5a5a5a;
+  padding-top: 55rpx;
+}
+.text_title .txt_bold.data-v-d61a2252 {
+  font-size: 40rpx;
+  font-weight: bold;
+  margin: 10rpx;
+}
+.text_title .txt.data-v-d61a2252 {
+  margin: 45rpx 10rpx;
+}
+.text_title .pic_box.data-v-d61a2252 {
+  text-align: center;
+}
+.text_title .pic_box image.data-v-d61a2252 {
+  width: 685rpx;
+  height: 1296rpx;
+}
+

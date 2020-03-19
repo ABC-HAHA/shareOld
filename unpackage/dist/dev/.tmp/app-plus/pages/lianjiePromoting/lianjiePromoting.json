@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "任务详情",
+  "navigationBarBackgroundColor": "#3F8AF0",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "face-content": "/components/faceContent/faceContent",
+    "loading": "/components/loading/loading",
+    "nodata-page": "/components/nodata/nodata"
+  }
+}

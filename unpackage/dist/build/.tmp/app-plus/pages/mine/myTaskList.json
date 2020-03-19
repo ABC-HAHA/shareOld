@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "我的任务",
+  "navigationBarBackgroundColor": "#3F8AF0",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "no-data": "/pages/mine/nodata"
+  }
+}

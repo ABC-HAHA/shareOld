@@ -1,0 +1,11 @@
+
+.box.data-v-6b369b36 {
+	padding: 40rpx 37rpx 52rpx;
+	width:661rpx;
+	height:559rpx;
+	font-size:30rpx;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+	color:rgba(34,34,34,1);
+}
+

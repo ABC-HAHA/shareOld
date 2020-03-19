@@ -1,0 +1,33 @@
+uni-page-body,
+page {
+  background-color: #f8f8f8;
+  font-family: PingFang-SC-Medium;
+  width: 100%;
+  height: 100%;
+}
+.container {
+  text-align: center;
+  position: relative;
+  background: #333333;
+  width: 100%;
+  height: 100%;
+}
+.container .title {
+  color: #FFFFFF;
+  font-size: 40rpx;
+  font-weight: bold;
+}
+.container .swiper {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  width: 750rpx;
+  height: 750rpx;
+}
+.container .swiper .swiper-item image {
+  width: 750rpx;
+  height: 750rpx;
+}
+

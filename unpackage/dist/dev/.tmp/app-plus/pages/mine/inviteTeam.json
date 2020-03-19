@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "",
+  "navigationBarBackgroundColor": "#4F3EB3",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "uni-popup": "/pages/mine/uni-popup",
+    "share-page": "/pages/mine/share"
+  }
+}

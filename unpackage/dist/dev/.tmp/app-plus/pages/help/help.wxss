@@ -1,0 +1,35 @@
+.helpbox.data-v-89fa291c {
+  background: #ffffff;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  padding: 39rpx 30rpx 19rpx;
+  margin-bottom: 10rpx;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.helpbox .help_card .help_title.data-v-89fa291c {
+  width: 145px;
+  height: 35px;
+  font-size: 36rpx;
+  font-family: PingFang SC;
+  font-weight: bold;
+  color: #3f8af0;
+}
+.helpbox .help_card .help_content.data-v-89fa291c {
+  width: 284px;
+  height: 28px;
+  font-size: 30rpx;
+  font-family: PingFang SC;
+  font-weight: 500;
+  color: #000000;
+}
+.helpbox .help_back.data-v-89fa291c {
+  line-height: 120rpx;
+}
+.helpbox .help_back image.data-v-89fa291c {
+  width: 16rpx;
+  height: 30rpx;
+}
+

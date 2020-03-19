@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "提现排行",
+  "navigationBarBackgroundColor": "#3F8AF0",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "loading": "/components/loading/loading"
+  }
+}

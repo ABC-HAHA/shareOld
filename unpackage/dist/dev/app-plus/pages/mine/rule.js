@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"container { padding: ",[0,30],"; }\n.",[1],"title { font-size: ",[0,35],"; font-weight: bold; margin: ",[0,30]," 0; }\n.",[1],"tt { font-size: ",[0,35],"; font-weight: 600; margin: ",[0,30]," 0; }\n.",[1],"paragraph { font-size: ",[0,30],"; }\n",],undefined,{path:"./pages/mine/rule.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/mine/rule.wxml') } }));

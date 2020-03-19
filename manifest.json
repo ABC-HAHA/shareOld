@@ -1,0 +1,186 @@
+{
+    "name" : "赚分享",
+    "appid" : "__UNI__35732AD",
+    "description" : "",
+    "versionName" : "2.1.0",
+    "versionCode" : 210,
+    "transformPx" : false,
+    /* 5+App特有相关 */
+    "app-plus" : {
+        "usingComponents" : true,
+        "splashscreen" : {
+            "alwaysShowBeforeRender" : true,
+            "waiting" : false,
+            "autoclose" : true,
+            "delay" : 0
+        },
+        /* 模块配置 */
+        "modules" : {
+            "OAuth" : {},
+            "VideoPlayer" : {},
+            "Share" : {}
+        },
+        /* 应用发布信息 */
+        "distribute" : {
+            /* android打包配置 */
+            "android" : {
+                "permissions" : [
+                    "<uses-permission android:name=\"android.permission.CHANGE_NETWORK_STATE\"/>",
+                    "<uses-permission android:name=\"android.permission.MOUNT_UNMOUNT_FILESYSTEMS\"/>",
+                    "<uses-permission android:name=\"android.permission.READ_CONTACTS\"/>",
+                    "<uses-permission android:name=\"android.permission.VIBRATE\"/>",
+                    "<uses-permission android:name=\"android.permission.READ_LOGS\"/>",
+                    "<uses-permission android:name=\"android.permission.ACCESS_WIFI_STATE\"/>",
+                    "<uses-feature android:name=\"android.hardware.camera.autofocus\"/>",
+                    "<uses-permission android:name=\"android.permission.WRITE_CONTACTS\"/>",
+                    "<uses-permission android:name=\"android.permission.ACCESS_NETWORK_STATE\"/>",
+                    "<uses-permission android:name=\"android.permission.CAMERA\"/>",
+                    "<uses-permission android:name=\"android.permission.RECORD_AUDIO\"/>",
+                    "<uses-permission android:name=\"android.permission.GET_ACCOUNTS\"/>",
+                    "<uses-permission android:name=\"android.permission.MODIFY_AUDIO_SETTINGS\"/>",
+                    "<uses-permission android:name=\"android.permission.READ_PHONE_STATE\"/>",
+                    "<uses-permission android:name=\"android.permission.CHANGE_WIFI_STATE\"/>",
+                    "<uses-permission android:name=\"android.permission.WAKE_LOCK\"/>",
+                    "<uses-permission android:name=\"android.permission.CALL_PHONE\"/>",
+                    "<uses-permission android:name=\"android.permission.FLASHLIGHT\"/>",
+                    "<uses-permission android:name=\"android.permission.ACCESS_COARSE_LOCATION\"/>",
+                    "<uses-feature android:name=\"android.hardware.camera\"/>",
+                    "<uses-permission android:name=\"android.permission.ACCESS_FINE_LOCATION\"/>",
+                    "<uses-permission android:name=\"android.permission.WRITE_SETTINGS\"/>"
+                ],
+                "schemes" : "jmeyma",
+                "abiFilters" : [ "armeabi-v7a", "arm64-v8a" ]
+            },
+            /* ios打包配置 */
+            "ios" : {
+                "urltypes" : "jmeyma",
+                "capabilities" : {
+                    "entitlements" : {
+                        "com.apple.developer.associated-domains" : [ "applinks:jmeyma.openinstall.io" ]
+                    }
+                }
+            },
+            /* SDK配置 */
+            "sdkConfigs" : {
+                "oauth" : {
+                    "weixin" : {
+                        "appid" : "wx883e8cdd1cfd564c",
+                        "appsecret" : "d801046031dea3bd6e19fa2a1a5641e4",
+                        "UniversalLinks" : "https://www.gcso123.com/apple-app-site-association/"
+                    }
+                },
+                "share" : {
+                    "weixin" : {
+                        "appid" : "wx883e8cdd1cfd564c",
+                        "UniversalLinks" : "https://www.gcso123.com/apple-app-site-association/"
+                    }
+                }
+            },
+            "icons" : {
+                "android" : {
+                    "hdpi" : "unpackage/res/icons/72x72.png",
+                    "xhdpi" : "unpackage/res/icons/96x96.png",
+                    "xxhdpi" : "unpackage/res/icons/144x144.png",
+                    "xxxhdpi" : "unpackage/res/icons/192x192.png"
+                },
+                "ios" : {
+                    "appstore" : "unpackage/res/icons/1024x1024.png",
+                    "ipad" : {
+                        "app" : "unpackage/res/icons/76x76.png",
+                        "app@2x" : "unpackage/res/icons/152x152.png",
+                        "notification" : "unpackage/res/icons/20x20.png",
+                        "notification@2x" : "unpackage/res/icons/40x40.png",
+                        "proapp@2x" : "unpackage/res/icons/167x167.png",
+                        "settings" : "unpackage/res/icons/29x29.png",
+                        "settings@2x" : "unpackage/res/icons/58x58.png",
+                        "spotlight" : "unpackage/res/icons/40x40.png",
+                        "spotlight@2x" : "unpackage/res/icons/80x80.png"
+                    },
+                    "iphone" : {
+                        "app@2x" : "unpackage/res/icons/120x120.png",
+                        "app@3x" : "unpackage/res/icons/180x180.png",
+                        "notification@2x" : "unpackage/res/icons/40x40.png",
+                        "notification@3x" : "unpackage/res/icons/60x60.png",
+                        "settings@2x" : "unpackage/res/icons/58x58.png",
+                        "settings@3x" : "unpackage/res/icons/87x87.png",
+                        "spotlight@2x" : "unpackage/res/icons/80x80.png",
+                        "spotlight@3x" : "unpackage/res/icons/120x120.png"
+                    }
+                }
+            },
+            "splashscreen" : {
+                "android" : {
+                    "hdpi" : "unpackage/res/splash/Android480x762.png",
+                    "xhdpi" : "unpackage/res/splash/Android720x1242.png",
+                    "xxhdpi" : "unpackage/res/splash/Android1080x1882.png"
+                },
+                "ios" : {
+                    "iphone" : {
+                        "portrait-896h@3x" : "unpackage/res/splash/iPhone1242x2688.png",
+                        "landscape-896h@3x" : "unpackage/res/splash/iPhone2688x1242.png",
+                        "portrait-896h@2x" : "unpackage/res/splash/iPhone828x1792.png",
+                        "landscape-896h@2x" : "unpackage/res/splash/iPhone1792x828.png",
+                        "iphonex" : "unpackage/res/splash/iPhone1125x2436.png",
+                        "iphonexl" : "unpackage/res/splash/iPhone2436x1125.png",
+                        "retina55" : "unpackage/res/splash/iPhone1242x2208.png",
+                        "retina55l" : "unpackage/res/splash/iPhone2208x1242.png",
+                        "retina47" : "unpackage/res/splash/iPhone750x1334.png",
+                        "retina47l" : "unpackage/res/splash/iPhone1334x750.png",
+                        "retina40" : "unpackage/res/splash/iPhone640x1136.png",
+                        "retina40l" : "unpackage/res/splash/iPhone1136x640.png",
+                        "retina35" : "unpackage/res/splash/iPhone640x960.png"
+                    }
+                }
+            }
+        },
+        "nativePlugins" : {
+            "openinstall-plugin" : {
+                "APP_KEY" : "jmeyma",
+                "__plugin_info__" : {
+                    "name" : "openinstall-免填邀请码",
+                    "description" : "此插件方便 uni-app 集成使用 openinstall 而开发",
+                    "platforms" : "Android,iOS",
+                    "url" : "https://ext.dcloud.net.cn/plugin?id=692",
+                    "android_package_name" : "com.tjyz.zfx",
+                    "ios_bundle_id" : "com.tjyz.app",
+                    "isCloud" : true,
+                    "bought" : 1,
+                    "pid" : "692",
+                    "parameters" : {
+                        "APP_KEY" : {
+                            "des" : "openinstall为应用生成的appkey",
+                            "key" : "com.openinstall.APP_KEY",
+                            "value" : ""
+                        }
+                    }
+                }
+            }
+        }
+    },
+    /* 快应用特有相关 */
+    "quickapp" : {},
+    /* 小程序特有相关 */
+    "mp-weixin" : {
+        "appid" : "",
+        "setting" : {
+            "urlCheck" : false
+        },
+        "usingComponents" : true
+    },
+    "mp-alipay" : {
+        "usingComponents" : true
+    },
+    "mp-baidu" : {
+        "usingComponents" : true
+    },
+    "mp-toutiao" : {
+        "usingComponents" : true
+    },
+    "h5" : {
+        "optimization" : {
+            "treeShaking" : {
+                "enable" : true
+            }
+        }
+    }
+}

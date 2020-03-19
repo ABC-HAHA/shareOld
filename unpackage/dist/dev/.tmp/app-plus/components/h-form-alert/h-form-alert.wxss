@@ -1,0 +1,46 @@
+.a_mask.data-v-598ed638 {
+  position: fixed;
+  z-index: 99999;
+  background-color: rgba(0, 0, 0, 0.5);
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+.a_mask .a_box.data-v-598ed638 {
+  width: 500rpx;
+  overflow: hidden;
+  background-color: #fff;
+  border-radius: 10rpx;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+}
+.a_mask .a_box .a_head.data-v-598ed638 {
+  text-align: left;
+  font-size: 30rpx;
+  line-height: 88rpx;
+  margin-left: 30rpx;
+}
+.a_mask .a_box .otherLogin.data-v-598ed638 {
+  margin: 0 auto;
+  padding: 30rpx 80rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.a_mask .a_box .otherLogin view.data-v-598ed638 {
+  text-align: center;
+}
+.a_mask .a_box .otherLogin view image.data-v-598ed638 {
+  width: 95rpx;
+  height: 95rpx;
+  background: #fff;
+  border-radius: 95rpx;
+}
+

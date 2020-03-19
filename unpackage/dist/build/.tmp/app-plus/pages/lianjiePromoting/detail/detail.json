@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "任务详情",
+  "navigationBarBackgroundColor": "#3F8AF0",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "h-form-alert": "/components/h-form-alert/h-form-alert",
+    "uni-popup": "/pages/lianjiePromoting/uni-popup/uni-popup",
+    "share-page": "/pages/lianjiePromoting/share/share"
+  }
+}

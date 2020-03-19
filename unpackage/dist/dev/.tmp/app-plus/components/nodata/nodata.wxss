@@ -1,0 +1,14 @@
+.no_data_block.data-v-05315198 {
+  width: 750rpx;
+  text-align: center;
+  margin-top: 400rpx;
+}
+.no_data_block .no_data.data-v-05315198 {
+  width: 464rpx;
+  height: 298rpx;
+}
+.no_data_block > view.data-v-05315198 {
+  font-size: 31rpx;
+  color: #686868;
+}
+

@@ -1,0 +1,116 @@
+page.data-v-41c6d116 {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+.top.data-v-41c6d116 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  margin-top: 100rpx;
+}
+.top image.data-v-41c6d116 {
+  width: 139rpx;
+  height: 139rpx;
+}
+.bottom.data-v-41c6d116 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-flex-wrap: wrap;
+          flex-wrap: wrap;
+  position: absolute;
+  bottom: 80rpx;
+}
+.bottom .bottom_title.data-v-41c6d116 {
+  width: 750rpx;
+  height: 36rpx;
+  font-size: 30rpx;
+  font-family: PingFang SC;
+  font-weight: 500;
+  color: #9c9c9c;
+  line-height: 36rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+}
+.bottom .pic.data-v-41c6d116 {
+  margin-top: 20rpx;
+}
+.bottom .pic image.data-v-41c6d116 {
+  width: 80rpx;
+  height: 80rpx;
+}
+.login_onther.data-v-41c6d116 {
+  width: 580rpx;
+  height: 30rpx;
+  margin-top: 48rpx;
+  line-height: 30rpx;
+  font-size: 28rpx;
+  font-family: PingFang-SC-Medium;
+  font-weight: 500;
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: inline-flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.navigat.data-v-41c6d116 {
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: inline-flex;
+  -webkit-box-pack: end;
+  -webkit-justify-content: flex-end;
+          justify-content: flex-end;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  margin-left: 30rpx;
+}
+.register.data-v-41c6d116 {
+  color: #007aff;
+}
+.forget_pwd.data-v-41c6d116 {
+  color: #666666;
+}
+.inputPwd.data-v-41c6d116 {
+  font-size: 19px !important;
+}
+.showHidePwd.data-v-41c6d116 {
+  height: 100%;
+  padding: 0 30rpx;
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: inline-flex;
+  -webkit-box-pack: end;
+  -webkit-justify-content: flex-end;
+          justify-content: flex-end;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.hidePwd.data-v-41c6d116 {
+  width: 26rpx;
+  height: 12rpx;
+}
+.showPwd.data-v-41c6d116 {
+  width: 31rpx;
+  height: 23rpx;
+}
+

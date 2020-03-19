@@ -1,0 +1,7 @@
+{
+  "navigationStyle": "custom",
+  "navigationBarBackgroundColor": "#5CACEE",
+  "usingComponents": {
+    "no-data": "/pages/mine/nodata"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "设置",
+  "navigationBarBackgroundColor": "#5CACEE",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "uni-popup": "/pages/mine/uni-popup",
+    "cmd-progress": "/components/cmd-progress/cmd-progress"
+  }
+}

@@ -1,0 +1,23 @@
+.introduction .no_data_block.data-v-629c4065 {
+  width: 750rpx;
+  text-align: center;
+  margin-top: 400rpx;
+}
+.introduction .no_data_block .no_data.data-v-629c4065 {
+  width: 464rpx;
+  height: 298rpx;
+}
+.introduction .no_data_block > view.data-v-629c4065 {
+  font-size: 31rpx;
+  color: #686868;
+}
+.box.data-v-629c4065 {
+  padding: 40rpx 37rpx 52rpx;
+  width: 661rpx;
+  height: 559rpx;
+  font-size: 30rpx;
+  font-family: Microsoft YaHei;
+  font-weight: 400;
+  color: #222222;
+}
+

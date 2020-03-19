@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "任务详情",
+  "navigationBarBackgroundColor": "#3F8AF0",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "h-form-alert": "/components/h-form-alert/h-form-alert",
+    "uni-popup": "/components/uni-popup/uni-popup",
+    "share-page": "/components/share/share"
+  }
+}

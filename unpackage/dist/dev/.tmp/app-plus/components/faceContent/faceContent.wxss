@@ -1,0 +1,47 @@
+.box.data-v-2846bc1c {
+  width: 750rpx;
+}
+.box .tuwenbox.data-v-2846bc1c {
+  height: 220rpx;
+  margin: 10rpx 0;
+  font-size: 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  background-color: #ffffff;
+}
+.box .tuwenbox image.data-v-2846bc1c {
+  margin: 20rpx;
+  width: 180rpx;
+  height: 180rpx;
+  border-radius: 10rpx;
+}
+.box .tuwenbox .tuwen_title.data-v-2846bc1c {
+  width: 350rpx;
+  height: 220rpx;
+  font-size: 30rpx;
+  font-family: PingFang SC;
+  font-weight: 500;
+  color: #222222;
+  margin: 20rpx;
+}
+.box .tuwenbox .tuwen_title .tuwen_pro.data-v-2846bc1c {
+  width: 260rpx;
+  margin-top: 30rpx;
+  margin-bottom: 30rpx;
+}
+.box .tuwenbox .tuwen_bottom.data-v-2846bc1c {
+  width: 160rpx;
+  font-size: 30rpx;
+  font-family: PingFang SC;
+  font-weight: 500;
+  color: #e33434;
+  padding: 15rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+

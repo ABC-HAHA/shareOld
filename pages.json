@@ -1,0 +1,285 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/tarbar/task/task",
+			"style": {
+				"navigationBarTitleText": "赚分享",
+				"navigationBarBackgroundColor": "#3F8AF0",
+				"navigationBarTextStyle": "white"
+			}
+		}, {
+			"path": "pages/tarbar/rank/rank",
+			"style": {
+				"navigationBarTitleText": "提现排行",
+				"navigationBarBackgroundColor": "#3F8AF0",
+				"navigationBarTextStyle": "white"
+			}
+		}, {
+			"path": "pages/tarbar/mine/mine",
+			"style": {
+				"navigationBarTitleText": "",
+				"navigationBarBackgroundColor": "#3F8AF0"
+			}
+		},
+		{
+			"path": "components/loading/loading"
+		}, {
+			"path": "components/h-form-alert/h-form-alert"
+		},
+		{
+			"path": "pages/help/help",
+			"style": {
+				"navigationBarTitleText": "帮助中心",
+				"navigationBarBackgroundColor": "#3F8AF0",
+				"navigationBarTextStyle": "white"
+			}
+		},
+		{
+			"path": "pages/help/leadDetail/leadDetail",
+			"style": {
+				"navigationBarTitleText": "详情",
+				"navigationBarBackgroundColor": "#3F8AF0",
+				"navigationBarTextStyle": "white"
+			}
+		},
+		{
+			"path": "pages/help/loginDetail/loginDetail",
+			"style": {
+				"navigationBarTitleText": "详情",
+				"navigationBarBackgroundColor": "#3F8AF0",
+				"navigationBarTextStyle": "white"
+			}
+		},
+		{
+			"path": "pages/help/getDetail/getDetail",
+			"style": {
+				"navigationBarTitleText": "详情",
+				"navigationBarBackgroundColor": "#3F8AF0",
+				"navigationBarTextStyle": "white"
+			}
+		},
+		{
+			"path": "pages/help/infoDetail/infoDetail",
+			"style": {
+				"navigationBarTitleText": "详情",
+				"navigationBarBackgroundColor": "#3F8AF0",
+				"navigationBarTextStyle": "white"
+			}
+		},
+		{
+			"path": "pages/help/getMoney/getMoney",
+			"style": {
+				"navigationBarTitleText": "详情",
+				"navigationBarBackgroundColor": "#3F8AF0",
+				"navigationBarTextStyle": "white"
+			}
+		},
+		{
+			"path": "pages/tuwenPromoting/tuwenPromoting",
+			"style": {
+				"navigationBarTitleText": "任务详情",
+				"navigationBarBackgroundColor": "#3F8AF0",
+				"navigationBarTextStyle": "white"
+			}
+		},
+		{
+			"path": "pages/tuwenPromoting/detail/detail",
+			"style": {
+				"navigationBarTitleText": "任务详情",
+				"navigationBarBackgroundColor": "#3F8AF0",
+				"navigationBarTextStyle": "white"
+			}
+		},
+		{
+			"path": "pages/lianjiePromoting/lianjiePromoting",
+			"style": {
+				"navigationBarTitleText": "任务详情",
+				"navigationBarBackgroundColor": "#3F8AF0",
+				"navigationBarTextStyle": "white"
+			}
+		}, {
+			"path": "pages/lianjiePromoting/detail/detail",
+			"style": {
+				"navigationBarTitleText": "任务详情",
+				"navigationBarBackgroundColor": "#3F8AF0",
+				"navigationBarTextStyle": "white"
+			}
+		},
+		{
+			"path": "pages/shipinPromoting/shipinPromoting",
+			"style": {
+				"navigationBarTitleText": "任务详情",
+				"navigationBarBackgroundColor": "#3F8AF0",
+				"navigationBarTextStyle": "white"
+			}
+		},
+		{
+			"path": "pages/shipinPromoting/detail/detail",
+			"style": {
+				"navigationBarTitleText": "任务详情",
+				"navigationBarBackgroundColor": "#3F8AF0",
+				"navigationBarTextStyle": "white"
+			}
+		},
+		{
+			"path": "components/uni-swiper-dot/uni-swiper-dot"
+		}, {
+			"path": "pages/mine/login",
+			"style": {
+				"navigationBarTitleText": "登录",
+				"navigationBarBackgroundColor": "#5CACEE",
+				"navigationBarTextStyle": "white"
+			}
+		},
+		{
+			"path": "pages/mine/register",
+			"style": {
+				"navigationBarTitleText": "注册",
+				"navigationBarBackgroundColor": "#5CACEE",
+				"navigationBarTextStyle": "white"
+			}
+		},
+		{
+			"path": "pages/mine/forgetPwd",
+			"style": {
+				"navigationBarTitleText": "忘记密码",
+				"navigationBarBackgroundColor": "#5CACEE",
+				"navigationBarTextStyle": "white"
+			}
+		},
+		{
+			"path": "pages/mine/briefIntroduction",
+			"style": {
+				"navigationBarTitleText": "如何赚佣",
+				"navigationBarBackgroundColor": "#5CACEE",
+				"navigationBarTextStyle": "white"
+			}
+		}, {
+			"path": "pages/mine/alipay",
+			"style": {
+				"navigationBarTitleText": "账号绑定",
+				"navigationBarBackgroundColor": "#5CACEE",
+				"navigationBarTextStyle": "white"
+			}
+		}, {
+			"path": "pages/mine/mobileNumber",
+			"style": {
+				"navigationBarTitleText": "绑定手机号",
+				"navigationBarBackgroundColor": "#5CACEE",
+				"navigationBarTextStyle": "white"
+			}
+		}, {
+			"path": "pages/mine/invitationCode",
+			"style": {
+				"navigationBarTitleText": "绑定邀请码",
+				"navigationBarBackgroundColor": "#5CACEE",
+				"navigationBarTextStyle": "white"
+			}
+		}, {
+			"path": "pages/mine/backNumber",
+			"style": {
+				"navigationBarTitleText": "绑定银行卡",
+				"navigationBarBackgroundColor": "#5CACEE",
+				"navigationBarTextStyle": "white"
+			}
+		},
+		{
+			"path": "pages/mine/auditPage",
+			"style": {
+				"navigationBarTitleText": "用户审核",
+				"navigationBarBackgroundColor": "#5CACEE",
+				"navigationBarTextStyle": "white"
+			}
+		}, {
+			"path": "pages/mine/personalPage",
+			"style": {
+				"navigationBarTitleText": "个人信息",
+				"navigationBarBackgroundColor": "#5CACEE",
+				"navigationBarTextStyle": "white"
+			}
+		}, {
+			"path": "pages/mine/myTeam",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarBackgroundColor": "#5CACEE"
+			},
+			"app-plus": {
+				"titleView": false
+			}
+			// "statusbar":"red"
+		}, {
+			"path": "pages/mine/setting",
+			"style": {
+				"navigationBarTitleText": "设置",
+				"navigationBarBackgroundColor": "#5CACEE",
+				"navigationBarTextStyle": "white"
+			}
+		}, {
+			"path": "pages/mine/myRecord",
+			"style": {
+				"navigationBarTitleText": "我的记录",
+				"navigationBarBackgroundColor": "#5CACEE",
+				"navigationBarTextStyle": "white"
+			}
+		}, {
+			"path": "pages/mine/withdrawal",
+			"style": {
+				"navigationBarTitleText": "提现",
+				"navigationBarBackgroundColor": "#5CACEE",
+				"navigationBarTextStyle": "white"
+			}
+		}, {
+			"path": "pages/mine/inviteTeam",
+			"style": {
+				"navigationBarTitleText": "",
+				"navigationBarBackgroundColor": "#4F3EB3",
+				"navigationBarTextStyle": "white"
+			}
+		}, {
+			"path": "pages/mine/myTaskList",
+			"style": {
+				// "navigationStyle": "custom",
+				"navigationBarTitleText": "我的任务",
+				"navigationBarBackgroundColor": "#3F8AF0",
+				"navigationBarTextStyle": "white"
+			}
+		},
+		{
+			"path": "pages/mine/rule",
+			"style": {
+				"navigationBarTitleText": "使用条款和隐私政策",
+				"navigationBarBackgroundColor": "#3F8AF0",
+				"navigationBarTextStyle": "white"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "赚分享",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "rgba(125,125,125,1)",
+		"selectedColor": "#404040",
+		"backgroundColor": "#F8F8F8",
+		"list": [{
+				"pagePath": "pages/tarbar/task/task",
+				"iconPath": "static/renwu.png",
+				"selectedIconPath": "static/renwuactive.png",
+				"text": "任务"
+			},
+			{
+				"pagePath": "pages/tarbar/rank/rank",
+				"iconPath": "static/paihangbang.png",
+				"selectedIconPath": "static/paihangbangactive.png",
+				"text": "排行"
+			}, {
+				"pagePath": "pages/tarbar/mine/mine",
+				"iconPath": "static/wode.png",
+				"selectedIconPath": "static/wodeactive.png",
+				"text": "我的"
+			}
+		]
+	}
+}

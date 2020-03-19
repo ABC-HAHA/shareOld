@@ -1,0 +1,31 @@
+.text_title.data-v-6e0b97a0 {
+  font-size: 33rpx;
+  font-family: PingFang SC;
+  font-weight: 500;
+  color: #5a5a5a;
+  padding-top: 55rpx;
+}
+.text_title .txt_title.data-v-6e0b97a0 {
+  font-size: 40rpx;
+  font-weight: 400;
+  margin: 10rpx;
+}
+.text_title .txt_title .txt_red.data-v-6e0b97a0 {
+  color: #f5222d;
+}
+.text_title .txt_bold.data-v-6e0b97a0 {
+  font-size: 40rpx;
+  font-weight: bold;
+  margin: 10rpx;
+}
+.text_title .txt.data-v-6e0b97a0 {
+  margin: 45rpx 10rpx;
+}
+.text_title .pic_box.data-v-6e0b97a0 {
+  text-align: center;
+}
+.text_title .pic_box image.data-v-6e0b97a0 {
+  width: 685rpx;
+  height: 1296rpx;
+}
+

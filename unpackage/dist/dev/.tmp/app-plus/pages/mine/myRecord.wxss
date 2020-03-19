@@ -1,0 +1,83 @@
+.recordPage.data-v-1cd086fc {
+  width: 750rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+}
+.recordPage .tabbar.data-v-1cd086fc {
+  width: 100%;
+  background: #ffffff;
+  height: 230rpx;
+  line-height: 230rpx;
+  text-align: center;
+}
+.recordPage .tabbar .tabbar_block.data-v-1cd086fc {
+  margin-top: 50rpx;
+  width: 200rpx;
+  height: 68rpx;
+  line-height: 68rpx;
+  text-align: center;
+  display: inline-block;
+  background: #ffffff;
+  border: 2px solid #3f8af0;
+  font-size: 30rpx;
+  color: #3f8af0;
+}
+.recordPage .tabbar .tabbar_block_active.data-v-1cd086fc {
+  margin-top: 50rpx;
+  width: 200rpx;
+  height: 76rpx;
+  line-height: 76rpx;
+  text-align: center;
+  display: inline-block;
+  background: #3f8af0;
+  font-size: 30rpx;
+  color: #ffffff;
+}
+.recordPage .list_block .list_title.data-v-1cd086fc {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  padding: 10rpx 50rpx;
+  height: 60rpx;
+  line-height: 60rpx;
+}
+.recordPage .list_block .list_title > text.data-v-1cd086fc {
+  font-size: 24rpx;
+  color: #333333;
+}
+.recordPage .list_block .list_item.data-v-1cd086fc {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  padding: 10rpx 50rpx;
+  height: 60rpx;
+  line-height: 50rpx;
+  background: #ffffff;
+}
+.recordPage .list_block .list_item > text.data-v-1cd086fc {
+  font-size: 24rpx;
+  color: #333333;
+}
+

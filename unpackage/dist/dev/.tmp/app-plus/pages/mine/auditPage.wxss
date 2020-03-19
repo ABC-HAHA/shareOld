@@ -1,0 +1,105 @@
+.auditPage.data-v-4291adbb {
+  width: 750rpx;
+}
+.auditPage .audit_specification.data-v-4291adbb {
+  width: 705rpx;
+  margin: 0 auto;
+  height: 384rpx;
+  padding-top: 30rpx;
+  line-height: 50rpx;
+  background: #ffffff;
+  font-size: 30rpx;
+  color: #414141;
+}
+.auditPage .audit_dec.data-v-4291adbb {
+  width: 600rpx;
+  margin: 30rpx auto;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.auditPage .audit_dec .audit_dec_vip.data-v-4291adbb {
+  font-size: 34rpx;
+  color: #414141;
+}
+.auditPage .audit_dec .audit_dec_num.data-v-4291adbb {
+  font-size: 29rpx;
+  color: #bf6d89;
+}
+.auditPage .audit_dec .audit_dec_task.data-v-4291adbb {
+  font-size: 29rpx;
+  color: #31a2da;
+}
+.auditPage .audit_upload.data-v-4291adbb {
+  text-align: center;
+  position: relative;
+}
+.auditPage .audit_upload .audit_dec_text.data-v-4291adbb {
+  width: 600rpx;
+  margin: 0 auto;
+  font-size: 30rpx;
+  color: #bf6d89;
+}
+.auditPage .audit_upload .delete_image.data-v-4291adbb {
+  position: absolute;
+  top: 110rpx;
+  right: 140rpx;
+  width: 40rpx;
+  height: 40rpx;
+}
+.auditPage .audit_upload .upload_image.data-v-4291adbb {
+  margin-top: 20rpx;
+  width: 544rpx;
+  height: 979rpx;
+}
+.auditPage .audit_upload .commit_audit.data-v-4291adbb {
+  margin: 60rpx;
+  width: 638rpx;
+  height: 81rpx;
+  line-height: 81rpx;
+  background: #3f8af0;
+  border-radius: 40rpx;
+  font-size: 30rpx;
+  color: #ffffff;
+}
+.auditPage .bottom_block .histor_title.data-v-4291adbb {
+  width: 705rpx;
+  height: 118rpx;
+  line-height: 118rpx;
+  background: #ffffff;
+  font-size: 38rpx;
+  color: #868686;
+  padding-left: 30rpx;
+}
+.auditPage .bottom_block .history_item.data-v-4291adbb {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.auditPage .bottom_block .history_item > image.data-v-4291adbb {
+  margin-left: 10rpx;
+  width: 207rpx;
+  height: 205rpx;
+}
+.auditPage .bottom_block .history_item > view.data-v-4291adbb {
+  font-size: 34rpx;
+  color: #6b6b6b;
+}
+.auditPage .bottom_block .history_item > view > view.data-v-4291adbb {
+  padding: 10rpx 40rpx;
+}
+

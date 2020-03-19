@@ -1,0 +1,79 @@
+{
+  "pages": [
+    "pages/tarbar/task/task",
+    "pages/tarbar/rank/rank",
+    "pages/tarbar/mine/mine",
+    "components/loading/loading",
+    "components/h-form-alert/h-form-alert",
+    "pages/help/help",
+    "pages/help/leadDetail/leadDetail",
+    "pages/help/loginDetail/loginDetail",
+    "pages/help/getDetail/getDetail",
+    "pages/help/infoDetail/infoDetail",
+    "pages/help/getMoney/getMoney",
+    "pages/tuwenPromoting/tuwenPromoting",
+    "pages/tuwenPromoting/detail/detail",
+    "pages/lianjiePromoting/lianjiePromoting",
+    "pages/lianjiePromoting/detail/detail",
+    "pages/shipinPromoting/shipinPromoting",
+    "pages/shipinPromoting/detail/detail",
+    "components/uni-swiper-dot/uni-swiper-dot",
+    "pages/mine/login",
+    "pages/mine/register",
+    "pages/mine/forgetPwd",
+    "pages/mine/briefIntroduction",
+    "pages/mine/alipay",
+    "pages/mine/mobileNumber",
+    "pages/mine/invitationCode",
+    "pages/mine/backNumber",
+    "pages/mine/auditPage",
+    "pages/mine/personalPage",
+    "pages/mine/myTeam",
+    "pages/mine/setting",
+    "pages/mine/myRecord",
+    "pages/mine/withdrawal",
+    "pages/mine/inviteTeam",
+    "pages/mine/myTaskList",
+    "pages/mine/rule"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "赚分享",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "rgba(125,125,125,1)",
+    "selectedColor": "#404040",
+    "backgroundColor": "#F8F8F8",
+    "list": [
+      {
+        "pagePath": "pages/tarbar/task/task",
+        "iconPath": "static/renwu.png",
+        "selectedIconPath": "static/renwuactive.png",
+        "text": "任务"
+      },
+      {
+        "pagePath": "pages/tarbar/rank/rank",
+        "iconPath": "static/paihangbang.png",
+        "selectedIconPath": "static/paihangbangactive.png",
+        "text": "排行"
+      },
+      {
+        "pagePath": "pages/tarbar/mine/mine",
+        "iconPath": "static/wode.png",
+        "selectedIconPath": "static/wodeactive.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "nvueCompiler": "uni-app",
+  "renderer": "auto",
+  "splashscreen": {
+    "alwaysShowBeforeRender": true,
+    "autoclose": false
+  },
+  "appname": "赚分享",
+  "compilerVersion": "2.5.1",
+  "usingComponents": {}
+}
